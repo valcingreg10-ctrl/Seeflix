@@ -1,0 +1,22 @@
+.media-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-start;
+  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+.Big{
+  background-color: #0A1439;
+  color: white;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}

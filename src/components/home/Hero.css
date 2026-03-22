@@ -1,0 +1,24 @@
+         .ex{
+            font-size: 40px;
+            padding-right: 20px;
+            margin-bottom : 20px left 50px;
+            background-color: rgba(255, 255, 255, 0.2);
+            height: 570px;
+            background-image:linear-gradient(to right, rgba(0, 0, 0, 0.877) 20%, transparent 60%), url("https://shorturl.at/kg1xh");
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: white;
+        }
+        .b{
+            background-color: blueviolet;
+            color: black;
+            font-size: 20px;
+            margin-left : 50px;
+            padding: 10px 20px;
+            border-radius: 10px;
+        }
+        .c{
+            text-align: left;
+            margin-left : 50px;
+            padding-top: 60px;
+        }
